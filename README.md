@@ -13,7 +13,7 @@ This Power BI dashboard project analyzes the performance of social media adverti
 - **DAX**: For complex calculations and measures to derive insights from the data.
 
 ## Screenshots
-![Dashboard Overview](link-to-screenshot.jpg)  // Replace with actual link to images in your repository
+![Dashboard Overview]()
 
 ## How to Use
 - Download the `.pbix` file from this repository.
