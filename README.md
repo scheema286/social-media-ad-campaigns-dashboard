@@ -13,7 +13,9 @@ This Power BI dashboard project analyzes the performance of social media adverti
 - **DAX**: For complex calculations and measures to derive insights from the data.
 
 ## Screenshots
-![Dashboard Overview](bi2.png)
+![Dashboard Overview](https://github.com/scheema286/social-media-ad-campaigns-dashboard/blob/main/power.PNG)
+![Dashboard Overview](https://github.com/scheema286/social-media-ad-campaigns-dashboard/blob/main/bi2.PNG)
+![Dashboard Overview](https://github.com/scheema286/social-media-ad-campaigns-dashboard/blob/main/bi3.PNG)
 
 ## How to Use
 - Download the `.pbix` file from this repository.
